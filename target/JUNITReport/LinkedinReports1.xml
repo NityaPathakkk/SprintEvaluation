@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="36.354" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="To test the functionality of Mynetwork pageS" name="My Network Functionality" time="36.067">
+<system-out><![CDATA[
+Given User is logged In and is on home page.................................passed
+When User clicks on Event icon on home page.................................passed
+And User enters the Event name..............................................passed
+And User clicks on Next button..............................................passed
+Then User clicks on post button.............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
